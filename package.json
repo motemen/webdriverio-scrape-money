@@ -1,0 +1,16 @@
+{
+  "name": "webdriverio-scrape-money",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "motemen <motemen@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "webdriverio": "^2.2.3",
+    "async": "^0.9.0"
+  }
+}
