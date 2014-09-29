@@ -15,3 +15,7 @@ Required environment variables:
 
 * `MUFG_ID`
 * `MUFG_PASSWORD`
+
+== Known issues
+
+* MUFG: cannot proceed when the site forces user to read notifications
