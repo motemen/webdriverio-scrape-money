@@ -1,5 +1,7 @@
 = webdriverio-scrape-money
 
+== DEPRECATED: See https://github.com/motemen/example-scrape-websites[motemen/example-scrape-websites]
+
 Scrape your money information using webdriverio. Ses also https://github.com/motemen/protractor-scrape-money[motemen/protractor-scrape-money].
 
 Requires https://code.google.com/p/chromedriver/[ChromeDriver] to be installed.
